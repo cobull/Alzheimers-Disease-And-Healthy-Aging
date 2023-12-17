@@ -1,6 +1,6 @@
 # Alzheimers-Disease-And-Healthy-Aging
 ## About
-#### The .ipynb file contains code that was used to analyze the "Alzheimer_s_Disease_and_Healthy_Aging_Data" csv file provided by the United States government. The original, maintained file can be found on data.gov. The TIGER/Line Shapefiles used to create the maps can be found on census.gov.
+#### The .ipynb file contains code that was used to analyze the "Alzheimer_s_Disease_and_Healthy_Aging_Data" csv file provided by the United States government. The data file is not provided here due to the size. The original, maintained file can be found on data.gov. The TIGER/Line Shapefiles used to create the maps can be found on census.gov.
 ## Requirements
 #### Python 3.9.18
 #### Geopandas 0.12.2
